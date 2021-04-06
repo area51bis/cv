@@ -13,4 +13,4 @@ Creo que fue el último juego que hice para J2ME y probablemente el mejor técni
 
 ## Descargas:
 - J2ME
-- [PC](jars/pc/Amy.jar)
+- [PC](jars/pc/Amy.jar?raw=true)
