@@ -23,5 +23,5 @@ Pablo A. Sánchez<br>
 Griselda Llada
 
 ## Descargas
-- [J2ME](jars/j2me/Amy_240x320.jar)
-- [PC](jars/pc/Amy.jar)
+- [J2ME](jars/j2me/Amy_240x320.jar?raw=true)
+- [PC](jars/pc/Amy.jar?raw=true)

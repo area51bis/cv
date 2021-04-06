@@ -19,6 +19,6 @@ Moisés Moreno
 Pablo A. Sánchez
 
 ## Descargas
-- [J2ME](jars/j2me/EdV2_240x320.jar)
-- [PC](jars/pc/EdV2.jar)
+- [J2ME](jars/j2me/EdV2_240x320.jar?raw=true)
+- [PC](jars/pc/EdV2.jar?raw=true)
 - **Próximamente**: Versión mejorada para PC.

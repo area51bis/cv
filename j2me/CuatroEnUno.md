@@ -25,5 +25,5 @@ Griselda Llada
 José Vázquez
 
 ## Descargas
-- [J2ME](jars/j2me/CuatroEnUno_240x320.jar)
-- [PC](jars/pc/CuatroEnUno.jar)
+- [J2ME](jars/j2me/CuatroEnUno_240x320.jar?raw=true)
+- [PC](jars/pc/CuatroEnUno.jar?raw=true)
