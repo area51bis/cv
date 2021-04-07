@@ -1,15 +1,12 @@
-# Escape del Volcán 2
+# Escape del Volcán 2 (2007)
 [<img src="screenshots/EdV2_title.png" width="200"></img>](screenshots/EdV2_title.png)
 [<img src="screenshots/EdV2_menu.png" width="200"></img>](screenshots/EdV2_menu.png)
 [<img src="screenshots/EdV2_game.png" width="200"></img>](screenshots/EdV2_game.png)
 
 ## Descripción
-Continúa escapando de volcanes a punto de entrar en erupción, pero esta vez no será ran fácil. Ahora tendrás que vértelas con enemigos y obstáculos que te complicarán el viaje.
+Segunda parte de [Escape del Volcán](Escape.md) que conserva el espíritu del primero, pero añadiendo objetos, enemigos y naves desbloqueables.
 
-## Comentarios
-Segunda parte de [Escape del Volcán](escape.md) que conserva el espíritu del primero, pero añadiendo objetos, enemigos y naves desbloqueables.
-
-Personalmente quedé bastante satisfecho con el resultado final. Creo que es bastante completo y divertido. Eso sí, al igual que la primera parte, también es bastante difícil.
+Personalmente quedé bastante satisfecho con el resultado final. Creo que es bastante completo y divertido. Eso sí, al igual que el primero, también es bastante difícil.
 
 ## Créditos
 - **Programación**:<br>
