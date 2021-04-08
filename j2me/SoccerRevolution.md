@@ -1,13 +1,14 @@
 # Soccer Revolution (2006)
+[<img src="screenshots/SoccerRevolution_menu.png" width="200"/>](screenshots/SoccerRevolution_menu.png)
 [<img src="screenshots/SoccerRevolution_game.png" width="200"/>](screenshots/SoccerRevolution_game.png)
-[<img src="screenshots/SoccerRevolution_game2.png" width="200"/>](screenshots/SoccerRevolution_game2.png)
 
 ## Descripción
 Juego de fútbol estilo Sensible Soccer.
 
 Aunque no me gusta el fútbol y tampoco me llamaba la idea de hacer un juego, me lo pasé bastante bien programándolo.
 
-Lamentablemente no he conseguido recuperarlo todavía.
+Sólo he conseguido una versión rara (de Samsung, creo) para una resolución algo pequeña y he tenido que "hackearlo" para que funcione el teclado.
+
 
 ## Créditos
 - **Programación**:<br>
@@ -22,5 +23,5 @@ Griselda Llada
 Julián Ortiz
 
 ## Descargas
-- J2ME (no disponible)
-- PC (no disponible)
+- [J2ME](jars/j2me/SoccerRevolution_132x164.jar?raw=true)
+- [PC](jars/pc/SoccerRevolution.jar?raw=true)
