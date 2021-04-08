@@ -1,6 +1,6 @@
 # Escape del Volcán (2005)
-[<img src="screenshots/Escape_menu.png" width="200"></img>](screenshots/Escape_menu.png)
-[<img src="screenshots/Escape_game.png" width="200"></img>](screenshots/Escape_game.png)
+[<img src="screenshots/Escape_menu.png" width="200"/>](screenshots/Escape_menu.png)
+[<img src="screenshots/Escape_game.png" width="200"/>](screenshots/Escape_game.png)
 
 ## Descripción
 Juego de habilidad cuyo objetivo es escapar de todos los volcanes antes de que te atrape la lava o te quedes sin combustible mientras intentas coger todas las monedas.
