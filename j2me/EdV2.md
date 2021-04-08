@@ -1,7 +1,7 @@
 # Escape del Volcán 2 (2007)
-[<img src="screenshots/EdV2_title.png" width="200"></img>](screenshots/EdV2_title.png)
-[<img src="screenshots/EdV2_menu.png" width="200"></img>](screenshots/EdV2_menu.png)
-[<img src="screenshots/EdV2_game.png" width="200"></img>](screenshots/EdV2_game.png)
+[<img src="screenshots/EdV2_title.png" width="200"/>](screenshots/EdV2_title.png)
+[<img src="screenshots/EdV2_menu.png" width="200"/>](screenshots/EdV2_menu.png)
+[<img src="screenshots/EdV2_game.png" width="200"/>](screenshots/EdV2_game.png)
 
 ## Descripción
 Segunda parte de [Escape del Volcán](Escape.md) que conserva el espíritu del primero, pero añadiendo objetos, enemigos y naves desbloqueables.

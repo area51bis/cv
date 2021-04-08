@@ -1,7 +1,7 @@
 # Sexy Puzzmaniac (2005)
-[<img src="screenshots/Puzzmaniac_title.png" width="200"></img>](screenshots/Puzzmaniac_title.png)
-[<img src="screenshots/Puzzmaniac_menu.png" width="200"></img>](screenshots/Puzzmaniac_menu.png)
-[<img src="screenshots/Puzzmaniac_game.png" width="200"></img>](screenshots/Puzzmaniac_game.png)
+[<img src="screenshots/Puzzmaniac_title.png" width="200"/>](screenshots/Puzzmaniac_title.png)
+[<img src="screenshots/Puzzmaniac_menu.png" width="200"/>](screenshots/Puzzmaniac_menu.png)
+[<img src="screenshots/Puzzmaniac_game.png" width="200"/>](screenshots/Puzzmaniac_game.png)
 
 ## Descripción
 Juego tipo Volfied o Gals Panic.

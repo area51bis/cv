@@ -1,6 +1,6 @@
 # Santa Claus Revolution (2005)
-[<img src="screenshots/SantaRev_menu.png" width="200"></img>](screenshots/SantaRev_menu.png)
-[<img src="screenshots/SantaRev_game.png" width="200"></img>](screenshots/SantaRev_game.png)
+[<img src="screenshots/SantaRev_menu.png" width="200"/>](screenshots/SantaRev_menu.png)
+[<img src="screenshots/SantaRev_game.png" width="200"/>](screenshots/SantaRev_game.png)
 
 ## Descripción
 Adaptación navideña de [Escape del Volcán](Escape.md). Conserva misma jugabilidad, pero añadiendo distintos niveles de dificultad que requieren conseguir un determinado número de regalos para pasar de nivel.

@@ -1,6 +1,6 @@
 # Soccer Revolution (2006)
-[<img src="screenshots/SoccerRevolution_game.png" width="200"></img>](screenshots/SoccerRevolution_game.png)
-[<img src="screenshots/SoccerRevolution_game2.png" width="200"></img>](screenshots/SoccerRevolution_game2.png)
+[<img src="screenshots/SoccerRevolution_game.png" width="200"/>](screenshots/SoccerRevolution_game.png)
+[<img src="screenshots/SoccerRevolution_game2.png" width="200"/>](screenshots/SoccerRevolution_game2.png)
 
 ## Descripción
 Juego de fútbol estilo Sensible Soccer.

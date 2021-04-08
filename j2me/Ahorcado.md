@@ -1,6 +1,6 @@
 # El Show del Ahorcado (2006)
-[<img src="screenshots/Ahorcado_menu.png" width="200"></img>](screenshots/Ahorcado_menu.png)
-[<img src="screenshots/Ahorcado_game.png" width="200"></img>](screenshots/Ahorcado_game.png)
+[<img src="screenshots/Ahorcado_menu.png" width="200"/>](screenshots/Ahorcado_menu.png)
+[<img src="screenshots/Ahorcado_game.png" width="200"/>](screenshots/Ahorcado_game.png)
 
 ## Descripción
 Símpatico juego del ahorcado que simula un concurso de TV.

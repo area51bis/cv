@@ -1,7 +1,7 @@
 # Plop! Sexy Navidad (2006)
-[<img src="screenshots/SexyPlop_title.png" width="200"></img>](screenshots/SexyPlop_title.png)
-[<img src="screenshots/SexyPlop_menu.png" width="200"></img>](screenshots/SexyPlop_menu.png)
-[<img src="screenshots/SexyPlop_game.png" width="200"></img>](screenshots/SexyPlop_game.png)
+[<img src="screenshots/SexyPlop_title.png" width="200"/>](screenshots/SexyPlop_title.png)
+[<img src="screenshots/SexyPlop_menu.png" width="200"/>](screenshots/SexyPlop_menu.png)
+[<img src="screenshots/SexyPlop_game.png" width="200"/>](screenshots/SexyPlop_game.png)
 
 ## Descripción
 Versión navideña de [Plop - Sexy Bikinis](PlopSexyBikinis.md). Sexy, claro.
