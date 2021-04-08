@@ -18,6 +18,6 @@ Pablo A. Sánchez<br>
 Griselda Llada
 
 ## Descargas
-- [J2ME](jars/j2me/Amy_240x320.jar?raw=true)
-- [PC](jars/pc/Amy.jar?raw=true)
+- [J2ME](jars/j2me/Puzzmaniac_176x220.jar?raw=true)
+- [PC](jars/pc/Puzzmaniac.jar?raw=true)
 - **Próximamente**: Versión adaptada a PC.
