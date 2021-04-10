@@ -3,11 +3,9 @@
 [<img src="screenshots/SoccerRevolution_game.png" width="200"/>](screenshots/SoccerRevolution_game.png)
 
 ## Descripción
-Juego de fútbol estilo Sensible Soccer.
+Juego de fútbol inspirado Sensible Soccer.
 
-Aunque no me gusta el fútbol y tampoco me llamaba la idea de hacer un juego, me lo pasé bastante bien programándolo.
-
-Sólo he conseguido una versión rara (de Samsung, creo) para una resolución algo pequeña y he tenido que "hackearlo" para que funcione el teclado.
+Aunque no me gusta el fútbol y tampoco me llamaba la idea de hacer un juego, al final lo pasé bastante bien programándolo. Creo que quedó bastante resultón, aunque algunas cosas se quedasen fuera por falta de tiempo.
 
 
 ## Créditos
@@ -23,5 +21,5 @@ Griselda Llada
 Julián Ortiz
 
 ## Descargas
-- [J2ME](jars/j2me/SoccerRevolution_132x164.jar?raw=true)
+- [J2ME](jars/j2me/SoccerRevolution_176x220.jar?raw=true)
 - [PC](jars/pc/SoccerRevolution.jar?raw=true)
