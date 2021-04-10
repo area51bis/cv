@@ -7,7 +7,7 @@ Hace unas semanas decidí retomarlo e intentar recuperar todos estos juegos para
 
 Algunos de ellos pueden resultar divertidos a día de hoy en un PC. Si alguien puede pasar un buen rato con alguno de ellos, me doy por satisfecho.
 
-## Juegos programados por mí
+## Programados por mí
 
 ||||
 |:---:|:---:|:---:|
