@@ -18,9 +18,10 @@ Algunos de ellos pueden resultar divertidos a día de hoy en un PC. Si alguien p
  | | [<img src="screenshots/Amy_title.png" width="100" />](Amy.md)<br>Amy Pumpkin y sus Pesadillas (2008) |
 
 ## Colaboraciones
-Juegos en los que participé o que usaban el "motor" que desarrollé.
+Juegos en los que participé o que llevan un trocito de mí (de mi código, vamos).
 
 ||||
 |:---:|:---:|:---:|
-[<img src="screenshots/TresEnUno_menu.png" width="100" />](TresEnUno.md)<br>3 en 1 (2006) | [<img src="screenshots/ActionNeng_menu.png" width="100" />](ActionNeng.md)<br>Action Neng (2006) | [<img src="screenshots/Petanca_title.png" width="100" />](Petanca.md)<br>Crazy Petanca (2006)
-| | [<img src="screenshots/NinjaInferno_menu.png" width="100" />](NinjaInferno.md)<br>Ninja Inferno (2007)
+[<img src="screenshots/Futvoley_menu.png" width="100" />](Futvoley.md)<br>Futvoley (2005) | [<img src="screenshots/TresEnUno_menu.png" width="100" />](TresEnUno.md)<br>3 en 1 (2006) |[<img src="screenshots/ActionNeng_menu.png" width="100" />](ActionNeng.md)<br>Action Neng (2006) 
+[<img src="screenshots/Petanca_title.png" width="100" />](Petanca.md)<br>Crazy Petanca (2006) | [<img src="screenshots/NinjaInferno_menu.png" width="100" />](NinjaInferno.md)<br>Ninja Inferno (2007) | [<img src="screenshots/YoYoGoGo_menu.png" width="100" />](YoYoGoGo.md)<br>Ninja YO-YO go-go!! (2007)
+| | [<img src="screenshots/ParchisAndFriends_menu.png" width="100" />](YoYoGoGo.md)<br>Parchís and Friends (2008)
